@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to AntiRaid
 
-You can use the [editor on GitHub](https://github.com/Anti-Raid/docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### How to start
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+# Invite AntiRaid by using this link: https://antiraid.xyz/invite
 
-# Header 1
-## Header 2
-### Header 3
++ By inviting the bot you can easily manage your server with AntiRaid!
 
-- Bulleted
-- List
+- To see all commands run "a.help" (Soon slash commands) !
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### How to create a mute role?
 
-### Jekyll Themes
+```markdown
+* Run the command `setup`... This will auto create a role "Muted" and will overwrite the permissions for all channels!
+```
+### Configure bot in website
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Anti-Raid/docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```markdown
++ Go to `https://antiraid.xyz/dashboard` and click the server you want to configure the bot in! You must login first.
++ When you click the server you will see [Something like this](https://helljs.a-simp.xyz/c04d25.png). You have 6 categories to configure!
+```
+### How to suggest / report bug / give feedback
+```markdown
+- Go to the index page and scroll down and after the bot statistics section there will be 3 buttons... Suggest, Report Bug & Feedback
+```
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with AntiRaid? Check out our [Support Server](https://discord.gg/nXzuqWXMSP) and we’ll help you sort it out.
