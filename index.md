@@ -29,6 +29,11 @@
 - Go to the index page and scroll down and after the bot statistics section there will be 3 buttons... Suggest, Report Bug & Feedback
 ```
 
+### Version 5
+
+```markdown
+* We are hardly working to update the bot to slash commands until new year
+```
 ### Support or Contact
 
 Having trouble with AntiRaid? Check out our [Support Server](https://discord.gg/nXzuqWXMSP) and we’ll help you sort it out.
